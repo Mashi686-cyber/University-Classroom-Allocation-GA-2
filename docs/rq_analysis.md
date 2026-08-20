@@ -1,0 +1,18 @@
+# Research Question Analysis
+
+## RQ1: Is it possible to use Genetic Algorithm in reducing conflicts in classroom allocation?
+Based on the experimental data from the synthetic datasets, the Genetic Algorithm (GA) successfully reduced conflicts compared to the greedy baseline heuristic. For the Small and Medium datasets, the GA eliminated all identified lecturer and student-group conflicts (reducing the baseline conflicts of 8 and 5 to 0). On the Large dataset, the GA reduced conflicts by an average of 91.4% (from 7 down to a mean of 0.6 conflicts across five seeds). The penalty-driven evolutionary search appears capable of navigating overlapping global constraints that a sequential allocator cannot.
+
+## RQ2: Is it possible to optimize the usage of existing classrooms through Genetic Algorithm?
+The results indicate that the GA can identify allocations with higher classroom utilization under specific conditions. On the Medium and Large datasets, the GA improved utilization over the baseline from `53.6%` to `61.1%` and `63.2%` to `68.9%`, respectively. However, utilization improvement is not absolute; on the highly constrained Small dataset, utilization decreased slightly from `71.0%` to `70.9%`. This suggests that while the GA generally attempts to optimize utilization, the strict enforcement of hard-constraint penalties will occasionally force the selection of less space-efficient rooms to ensure a conflict-free schedule.
+
+## RQ3: What are the effects of various Genetic Algorithm parameters on classroom allocation?
+The preliminary One-Factor-At-A-Time (OFAT) parameter study yielded several observations for the current dataset configuration:
+- **Population Size**: Larger populations converged in fewer generations, but linearly increased computational overhead. A population size of 50 provided an acceptable trade-off between convergence rate and execution time for these specific datasets.
+- **Generations**: Due to the deterministic repair mechanism and strong penalty gradients, fitness stabilized relatively early (typically around Generation 25 on the Small dataset). Extending the run to 500 generations offered no additional benefit on the Small dataset.
+- **Crossover Rate**: A crossover rate of `0.80` facilitated the fastest convergence among the tested values, suggesting a favorable balance of recombination for discrete course assignments.
+- **Mutation Rate**: Lower mutation rates (`0.01` to `0.10`) maintained necessary diversity, while a higher rate (`0.20`) disrupted convergence and resulted in slightly suboptimal utilization. 
+*Note: These observations are limited to the Small dataset. The identified parameters are not claimed to be globally optimal, particularly as problem complexity increases.*
+
+## RQ4: Does the GA-based classroom allocation approach outperform the simple classroom allocation approach?
+The GA demonstrated superior capability in conflict reduction and utilization optimization relative to the baseline algorithm, albeit at a higher computational cost. Both algorithms allocated an identical number of courses across all three datasets (17, 36, and 51 courses, respectively); the remaining courses were determined to be physically infeasible to schedule given the synthetic dataset constraints. While the GA substantially reduced conflicts and generally improved utilization, its execution time scaled from `~0.32` seconds (Small) to `~1.16` seconds (Large), compared to the baseline's sub-millisecond execution. While the GA is objectively slower, an execution time of ~1.2 seconds remains operationally feasible for static scheduling tasks.

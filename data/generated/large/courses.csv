@@ -1,0 +1,101 @@
+Course_ID,Course_Name,Student_Group,Number_of_Students,Lecturer_ID,Required_Room_Type,Required_Facilities,Duration
+C001,Course 1,SG04,80,L018,Seminar Room,[],1
+C002,Course 2,SG05,80,L029,Lecture Hall,"[""Projector""]",1
+C003,Course 3,SG05,80,L022,Laboratory,"[""Computers""]",1
+C004,Course 4,SG03,30,L010,Lecture Hall,"[""Projector""]",1
+C005,Course 5,SG04,80,L005,Laboratory,"[""Computers""]",2
+C006,Course 6,SG06,30,L035,Laboratory,"[""Computers""]",2
+C007,Course 7,SG01,80,L014,Laboratory,"[""Computers""]",2
+C008,Course 8,SG10,80,L002,Seminar Room,[],1
+C009,Course 9,SG06,30,L020,Laboratory,"[""Computers""]",2
+C010,Course 10,SG09,100,L035,Seminar Room,"[""Whiteboard""]",2
+C011,Course 11,SG04,80,L018,Laboratory,"[""Computers""]",2
+C012,Course 12,SG01,80,L025,Laboratory,"[""Computers""]",2
+C013,Course 13,SG03,30,L030,Lecture Hall,"[""Projector""]",1
+C014,Course 14,SG07,60,L002,Lecture Hall,"[""Projector""]",1
+C015,Course 15,SG08,60,L012,Lecture Hall,[],2
+C016,Course 16,SG04,80,L030,Laboratory,"[""Computers""]",2
+C017,Course 17,SG07,60,L018,Laboratory,"[""Computers""]",2
+C018,Course 18,SG02,100,L031,Lecture Hall,"[""Projector""]",1
+C019,Course 19,SG06,30,L015,Seminar Room,[],1
+C020,Course 20,SG01,80,L016,Lecture Hall,"[""Projector""]",1
+C021,Course 21,SG04,80,L009,Laboratory,"[""Computers""]",1
+C022,Course 22,SG10,80,L014,Laboratory,"[""Computers""]",2
+C023,Course 23,SG06,30,L011,Seminar Room,"[""Whiteboard""]",1
+C024,Course 24,SG03,30,L020,Lecture Hall,"[""Projector""]",2
+C025,Course 25,SG10,80,L025,Laboratory,"[""Computers""]",1
+C026,Course 26,SG02,100,L016,Lecture Hall,"[""Projector""]",2
+C027,Course 27,SG10,80,L008,Seminar Room,"[""Whiteboard""]",2
+C028,Course 28,SG09,100,L028,Seminar Room,[],2
+C029,Course 29,SG01,80,L027,Laboratory,"[""Computers""]",1
+C030,Course 30,SG07,60,L024,Seminar Room,"[""Whiteboard""]",2
+C031,Course 31,SG03,30,L028,Lecture Hall,"[""Projector""]",2
+C032,Course 32,SG10,80,L035,Laboratory,"[""Computers""]",2
+C033,Course 33,SG07,60,L018,Laboratory,"[""Computers""]",1
+C034,Course 34,SG02,100,L018,Laboratory,"[""Computers""]",1
+C035,Course 35,SG08,60,L025,Laboratory,"[""Computers""]",1
+C036,Course 36,SG08,60,L021,Lecture Hall,"[""Projector""]",2
+C037,Course 37,SG05,80,L022,Laboratory,"[""Computers""]",2
+C038,Course 38,SG09,100,L001,Seminar Room,"[""Whiteboard""]",1
+C039,Course 39,SG04,80,L027,Laboratory,"[""Computers""]",1
+C040,Course 40,SG08,60,L032,Laboratory,"[""Computers""]",1
+C041,Course 41,SG02,100,L019,Lecture Hall,"[""Projector""]",1
+C042,Course 42,SG05,80,L024,Laboratory,"[""Computers""]",2
+C043,Course 43,SG07,60,L022,Laboratory,"[""Computers""]",2
+C044,Course 44,SG05,80,L020,Laboratory,"[""Computers""]",1
+C045,Course 45,SG02,100,L013,Laboratory,"[""Computers""]",1
+C046,Course 46,SG09,100,L012,Lecture Hall,[],2
+C047,Course 47,SG05,80,L034,Seminar Room,[],1
+C048,Course 48,SG04,80,L019,Lecture Hall,"[""Projector""]",2
+C049,Course 49,SG01,80,L035,Lecture Hall,[],1
+C050,Course 50,SG09,100,L019,Seminar Room,"[""Whiteboard""]",2
+C051,Course 51,SG02,100,L001,Seminar Room,[],2
+C052,Course 52,SG08,60,L022,Lecture Hall,"[""Projector""]",2
+C053,Course 53,SG08,60,L008,Lecture Hall,"[""Projector""]",1
+C054,Course 54,SG10,80,L004,Lecture Hall,[],2
+C055,Course 55,SG02,100,L016,Lecture Hall,"[""Projector""]",2
+C056,Course 56,SG10,80,L015,Seminar Room,[],2
+C057,Course 57,SG05,80,L028,Laboratory,"[""Computers""]",1
+C058,Course 58,SG10,80,L007,Lecture Hall,"[""Projector""]",2
+C059,Course 59,SG02,100,L011,Lecture Hall,[],1
+C060,Course 60,SG03,30,L001,Laboratory,"[""Computers""]",2
+C061,Course 61,SG10,80,L031,Laboratory,"[""Computers""]",1
+C062,Course 62,SG04,80,L019,Seminar Room,[],2
+C063,Course 63,SG02,100,L015,Laboratory,"[""Computers""]",1
+C064,Course 64,SG07,60,L008,Seminar Room,[],1
+C065,Course 65,SG05,80,L010,Lecture Hall,[],2
+C066,Course 66,SG10,80,L019,Laboratory,"[""Computers""]",1
+C067,Course 67,SG08,60,L020,Seminar Room,[],2
+C068,Course 68,SG09,100,L035,Laboratory,"[""Computers""]",2
+C069,Course 69,SG02,100,L003,Laboratory,"[""Computers""]",2
+C070,Course 70,SG10,80,L017,Lecture Hall,[],1
+C071,Course 71,SG05,80,L003,Lecture Hall,"[""Projector""]",2
+C072,Course 72,SG05,80,L012,Seminar Room,[],2
+C073,Course 73,SG02,100,L031,Laboratory,"[""Computers""]",2
+C074,Course 74,SG06,30,L021,Seminar Room,[],1
+C075,Course 75,SG06,30,L027,Seminar Room,[],2
+C076,Course 76,SG09,100,L003,Laboratory,"[""Computers""]",1
+C077,Course 77,SG06,30,L017,Laboratory,"[""Computers""]",1
+C078,Course 78,SG07,60,L033,Lecture Hall,"[""Projector""]",2
+C079,Course 79,SG07,60,L004,Lecture Hall,"[""Projector""]",2
+C080,Course 80,SG08,60,L004,Lecture Hall,[],1
+C081,Course 81,SG05,80,L029,Seminar Room,[],1
+C082,Course 82,SG10,80,L016,Seminar Room,[],1
+C083,Course 83,SG09,100,L027,Lecture Hall,[],1
+C084,Course 84,SG08,60,L008,Seminar Room,"[""Whiteboard""]",2
+C085,Course 85,SG05,80,L033,Seminar Room,[],2
+C086,Course 86,SG08,60,L016,Laboratory,"[""Computers""]",1
+C087,Course 87,SG07,60,L013,Seminar Room,"[""Whiteboard""]",1
+C088,Course 88,SG02,100,L018,Laboratory,"[""Computers""]",2
+C089,Course 89,SG09,100,L018,Lecture Hall,[],2
+C090,Course 90,SG10,80,L032,Lecture Hall,"[""Projector""]",2
+C091,Course 91,SG06,30,L022,Seminar Room,"[""Whiteboard""]",2
+C092,Course 92,SG08,60,L021,Lecture Hall,"[""Projector""]",1
+C093,Course 93,SG10,80,L025,Lecture Hall,"[""Projector""]",2
+C094,Course 94,SG01,80,L021,Seminar Room,[],2
+C095,Course 95,SG07,60,L010,Laboratory,"[""Computers""]",1
+C096,Course 96,SG03,30,L033,Seminar Room,[],1
+C097,Course 97,SG08,60,L007,Seminar Room,"[""Whiteboard""]",1
+C098,Course 98,SG03,30,L027,Seminar Room,"[""Whiteboard""]",1
+C099,Course 99,SG08,60,L017,Laboratory,"[""Computers""]",2
+C100,Course 100,SG02,100,L022,Seminar Room,"[""Whiteboard""]",2

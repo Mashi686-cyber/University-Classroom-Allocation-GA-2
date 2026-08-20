@@ -1,0 +1,47 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.log
+
+# Node.js
+node_modules/
+.next/
+web/frontend/out/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Runtime data (Do not ignore official datasets or results)
+results/web_runs/
+
+# Debug files
+debug*.html
+test_browser*
+test_debug.js
+test_run.js
+
+# Extraneous non-project files
+*.csv
+!data/generated/**/*.csv
+!results/**/*.csv
+*.xlsx
+dataset/
+*.json
+!results/baseline/*.json
+!results/ga/*.json
+!web/frontend/package.json
+!web/frontend/package-lock.json
+!web/frontend/tsconfig.json
+*.py
+!start.py
+!src/**/*.py
+!web/backend/**/*.py
+!tests/**/*.py
+*.mjs
+!web/frontend/*.mjs
+test_*.js
