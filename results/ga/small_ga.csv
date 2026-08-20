@@ -1,0 +1,18 @@
+Course_ID,Course_Name,Student_Group,Lecturer_ID,Classroom_ID,Time_Slot_ID,Number_of_Students,Required_Room_Type,Required_Facilities,Duration
+C001,Course 1,SG02,L007,R001,"TS001,TS002",20,Lecture Hall,"[""Projector""]",2
+C002,Course 2,SG10,L004,R002,TS016,20,Seminar Room,[],1
+C003,Course 3,SG05,L002,R001,"TS015,TS016",50,Lecture Hall,"[""Projector""]",2
+C005,Course 5,SG06,L006,R001,TS004,40,Lecture Hall,"[""Projector""]",1
+C006,Course 6,SG10,L011,R001,TS007,20,Lecture Hall,"[""Projector""]",1
+C007,Course 7,SG03,L008,R010,"TS017,TS018",60,Laboratory,"[""Computers""]",2
+C009,Course 9,SG04,L001,R010,"TS009,TS010",50,Laboratory,"[""Computers""]",2
+C010,Course 10,SG05,L002,R001,"TS005,TS006",50,Lecture Hall,"[""Projector""]",2
+C011,Course 11,SG04,L011,R010,"TS005,TS006",50,Laboratory,"[""Computers""]",2
+C012,Course 12,SG08,L003,R007,TS001,30,Laboratory,"[""Computers""]",1
+C014,Course 14,SG10,L007,R007,TS012,20,Laboratory,"[""Computers""]",1
+C015,Course 15,SG03,L009,R010,TS016,60,Laboratory,"[""Computers""]",1
+C016,Course 16,SG01,L002,R001,"TS017,TS018",30,Lecture Hall,"[""Projector""]",2
+C017,Course 17,SG10,L002,R007,"TS009,TS010",20,Laboratory,"[""Computers""]",2
+C018,Course 18,SG10,L008,R002,TS004,20,Seminar Room,[],1
+C019,Course 19,SG02,L011,R003,"TS013,TS014",20,Seminar Room,"[""Whiteboard""]",2
+C020,Course 20,SG02,L005,R007,TS017,20,Laboratory,"[""Computers""]",1

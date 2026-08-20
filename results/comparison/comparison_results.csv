@@ -1,0 +1,7 @@
+dataset_size,algorithm,seed,total_courses,allocated_courses,unallocated_courses,classroom_conflicts,lecturer_conflicts,student_group_conflicts,capacity_violations,facility_violations,room_type_violations,availability_violations,utilization,fitness,execution_time
+Small,Baseline,42 (Deterministic),20,17,3,0,5,3,0,0,0,0,70.99236641221374,,0.0004734992980957031
+Small,GA (Mean),Multiple (5 runs),20,17,3,0,0,0,0,0,0,0,70.88480222068009,-299929.1151977793,0.32448434829711914
+Medium,Baseline,42 (Deterministic),50,36,14,0,4,1,0,0,0,0,53.57142857142857,,0.0013840198516845703
+Medium,GA (Mean),Multiple (5 runs),50,36,14,0,0,0,0,0,0,0,61.10181324762242,-1399938.8981867523,0.7229468822479248
+Large,Baseline,42 (Deterministic),100,51,49,0,0,7,0,0,0,0,63.24110671936759,,0.004412651062011719
+Large,GA (Mean),Multiple (5 runs),100,51,49,0,0.2,0.4,0,0,0,0,68.87065629082146,-4905931.129343709,1.155606985092163

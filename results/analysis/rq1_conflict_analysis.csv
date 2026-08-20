@@ -1,0 +1,4 @@
+Dataset,Baseline conflicts,GA mean conflicts,GA minimum conflicts,GA maximum conflicts,Conflict reduction %,Classroom Conflicts (Base->GA),Lecturer Conflicts (Base->GA),Student Group Conflicts (Base->GA)
+Small,8.0,0.00,0.00,0.00,100.00%,0 -> 0.00,5 -> 0.00,3 -> 0.00
+Medium,5.0,0.00,0.00,0.00,100.00%,0 -> 0.00,4 -> 0.00,1 -> 0.00
+Large,7.0,0.60,0.00,1.00,91.43%,0 -> 0.00,0 -> 0.20,7 -> 0.40

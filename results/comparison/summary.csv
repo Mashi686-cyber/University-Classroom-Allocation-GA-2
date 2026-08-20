@@ -1,0 +1,13 @@
+dataset_size,metric,baseline_value,ga_mean_value,improvement_percent,improvement_type
+Small,Total Conflicts,8,0,100.0,Higher is Better
+Small,Unallocated Courses,3,3,0.0,Higher is Better
+Small,Utilization,70.99236641221374,70.88480222068009,-0.15151515151514802,Higher is Better
+Small,Execution Time,0.0004734992980957031,0.32448434829711914,-68429.00302114803,Higher is Faster
+Medium,Total Conflicts,5,0,100.0,Higher is Better
+Medium,Unallocated Courses,14,14,0.0,Higher is Better
+Medium,Utilization,53.57142857142857,61.10181324762242,14.056718062228516,Higher is Better
+Medium,Execution Time,0.0013840198516845703,0.7229468822479248,-52135.29715762274,Higher is Faster
+Large,Total Conflicts,7,0.6000000000000001,91.42857142857143,Higher is Better
+Large,Unallocated Courses,49,49,0.0,Higher is Better
+Large,Utilization,63.24110671936759,68.87065629082146,8.901725259861424,Higher is Better
+Large,Execution Time,0.004412651062011719,1.155606985092163,-26088.496866220015,Higher is Faster

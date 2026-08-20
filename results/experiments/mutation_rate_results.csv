@@ -1,0 +1,5 @@
+parameter,value,final_fitness,allocated_courses,unallocated_courses,classroom_conflicts,lecturer_conflicts,student_group_conflicts,capacity_violations,facility_violations,room_type_violations,availability_violations,utilization,execution_time,best_generation,mean_fitness_history
+mutation_rate,0.01,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.5528514385223389,22,-299930.2974652121
+mutation_rate,0.05,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6014630794525146,24,-299930.20985330903
+mutation_rate,0.1,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6380805969238281,23,-299930.2881803159
+mutation_rate,0.2,-299929.54545454547,17,3,0,0,0,0,0,0,0,70.45454545454545,0.6769895553588867,53,-300432.0039902074
