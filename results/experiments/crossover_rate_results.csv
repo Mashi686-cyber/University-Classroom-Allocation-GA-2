@@ -1,0 +1,5 @@
+parameter,value,final_fitness,allocated_courses,unallocated_courses,classroom_conflicts,lecturer_conflicts,student_group_conflicts,capacity_violations,facility_violations,room_type_violations,availability_violations,utilization,execution_time,best_generation,mean_fitness_history
+crossover_rate,0.6,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6470177173614502,37,-300030.34762196953
+crossover_rate,0.7,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6493828296661377,30,-299930.2255520393
+crossover_rate,0.8,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6325151920318604,23,-299930.2881803159
+crossover_rate,0.9,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6439154148101807,28,-299929.95973359357

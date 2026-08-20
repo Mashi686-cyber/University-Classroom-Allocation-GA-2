@@ -1,0 +1,5 @@
+parameter,value,final_fitness,allocated_courses,unallocated_courses,classroom_conflicts,lecturer_conflicts,student_group_conflicts,capacity_violations,facility_violations,room_type_violations,availability_violations,utilization,execution_time,best_generation,mean_fitness_history
+generations,50,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.3330097198486328,23,-299931.56872704404
+generations,100,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6409356594085693,23,-299930.2881803159
+generations,200,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,1.2800557613372803,23,-299929.64790695184
+generations,500,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,3.1321756839752197,23,-299929.26374293346

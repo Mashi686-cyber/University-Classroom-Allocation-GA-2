@@ -1,0 +1,17 @@
+Parameter Type,Parameter Value,Final fitness,Utilization,Execution time,Best generation
+Population Size,25,-299929.01,70.99%,0.31,48
+Population Size,50,-299929.01,70.99%,0.62,23
+Population Size,100,-299929.01,70.99%,1.27,24
+Population Size,200,-299929.01,70.99%,2.40,15
+Generations,50,-299929.01,70.99%,0.33,23
+Generations,100,-299929.01,70.99%,0.64,23
+Generations,200,-299929.01,70.99%,1.28,23
+Generations,500,-299929.01,70.99%,3.13,23
+Mutation Rate,0.01,-299929.01,70.99%,0.55,22
+Mutation Rate,0.05,-299929.01,70.99%,0.60,24
+Mutation Rate,0.1,-299929.01,70.99%,0.64,23
+Mutation Rate,0.2,-299929.55,70.45%,0.68,53
+Crossover Rate,0.6,-299929.01,70.99%,0.65,37
+Crossover Rate,0.7,-299929.01,70.99%,0.65,30
+Crossover Rate,0.8,-299929.01,70.99%,0.63,23
+Crossover Rate,0.9,-299929.01,70.99%,0.64,28

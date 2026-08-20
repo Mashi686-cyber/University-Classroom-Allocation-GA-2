@@ -1,0 +1,5 @@
+parameter,value,final_fitness,allocated_courses,unallocated_courses,classroom_conflicts,lecturer_conflicts,student_group_conflicts,capacity_violations,facility_violations,room_type_violations,availability_violations,utilization,execution_time,best_generation,mean_fitness_history
+population_size,25,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.3099689483642578,48,-300130.74246935465
+population_size,50,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,0.6220955848693848,23,-299930.2881803159
+population_size,100,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,1.274266242980957,24,-300029.8067835367
+population_size,200,-299929.0076335878,17,3,0,0,0,0,0,0,0,70.99236641221374,2.4027597904205322,15,-299929.8994637044

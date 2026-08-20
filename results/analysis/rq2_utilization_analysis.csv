@@ -1,0 +1,4 @@
+Dataset,Allocated Courses,Baseline utilization,GA mean utilization,GA standard deviation,Absolute change in percentage points,Relative percentage change
+Small,17,70.99%,70.88%,0.24,-0.11 pp,-0.15%
+Medium,36,53.57%,61.10%,1.43,7.53 pp,14.06%
+Large,51,63.24%,68.87%,4.39,5.63 pp,8.90%

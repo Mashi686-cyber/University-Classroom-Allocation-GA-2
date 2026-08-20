@@ -1,0 +1,14 @@
+{
+    "total_courses": 50,
+    "allocated_courses": 36,
+    "unallocated_courses": 14,
+    "classroom_conflicts": 0,
+    "lecturer_conflicts": 4,
+    "student_group_conflicts": 1,
+    "capacity_violations": 0,
+    "facility_violations": 0,
+    "room_type_violations": 0,
+    "availability_violations": 0,
+    "utilization": 53.57142857142857,
+    "execution_time_seconds": 0.0021212100982666016
+}

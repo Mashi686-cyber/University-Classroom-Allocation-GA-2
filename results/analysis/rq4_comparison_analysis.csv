@@ -1,0 +1,7 @@
+Dataset,Algorithm,Allocated,Unallocated,Total conflicts,Capacity violations,Facility violations,Room type violations,Utilization,Execution time
+Small,Baseline,17,3,8.0,0.0,0.0,0.0,71.0%,0.00s
+Small,GA (Mean),17,3,0.0,0.0,0.0,0.0,70.9%,0.32s
+Medium,Baseline,36,14,5.0,0.0,0.0,0.0,53.6%,0.00s
+Medium,GA (Mean),36,14,0.0,0.0,0.0,0.0,61.1%,0.72s
+Large,Baseline,51,49,7.0,0.0,0.0,0.0,63.2%,0.00s
+Large,GA (Mean),51,49,0.6,0.0,0.0,0.0,68.9%,1.16s
